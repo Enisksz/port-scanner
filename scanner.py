@@ -1,5 +1,5 @@
 import argparse ,sys
-import socket # for connecting
+import socket # bağlantı için
 from colorama import Fore
 from threading import Thread, Lock
 from queue import Queue
